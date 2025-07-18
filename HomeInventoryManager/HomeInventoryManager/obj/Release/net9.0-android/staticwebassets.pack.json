@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jelle\\source\\repos\\HomeInventoryManager\\HomeInventoryManager\\HomeInventoryManager\\obj\\Release\\net9.0-android\\scopedcss\\bundle\\HomeInventoryManager.styles.css",
+      "PackagePath": "staticwebassets\\HomeInventoryManager.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Jelle\\source\\repos\\HomeInventoryManager\\HomeInventoryManager\\HomeInventoryManager\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jelle\\source\\repos\\HomeInventoryManager\\HomeInventoryManager\\HomeInventoryManager\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-android\\staticwebassets\\msbuild.HomeInventoryManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-android\\staticwebassets\\msbuild.HomeInventoryManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-android\\staticwebassets\\msbuild.build.HomeInventoryManager.props",
+      "PackagePath": "build\\HomeInventoryManager.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.HomeInventoryManager.props",
+      "PackagePath": "buildMultiTargeting\\HomeInventoryManager.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.HomeInventoryManager.props",
+      "PackagePath": "buildTransitive\\HomeInventoryManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,6 @@
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager.Shared\obj\Debug\net9.0\staticwebassets.build.json

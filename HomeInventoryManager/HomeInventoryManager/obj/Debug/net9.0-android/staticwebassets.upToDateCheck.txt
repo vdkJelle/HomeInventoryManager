@@ -1,0 +1,4 @@
+wwwroot\app.css
+wwwroot\index.html
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager\wwwroot\app.css
+C:\Users\Jelle\source\repos\HomeInventoryManager\HomeInventoryManager\HomeInventoryManager\wwwroot\index.html
